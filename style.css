@@ -12,3 +12,16 @@
 	margin: 32px 120px 32px 375px;
 	float: left;
 	}
+.home li{
+	float:left;
+	display: block;
+	
+	margin: 43px 0px 0px 0px;
+	
+}
+.home a{
+	text-decoration: none;
+	color: #2c70b7;
+	font-size: 16px;
+	padding: 43px 0px 0px 60px;
+}
