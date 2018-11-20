@@ -69,3 +69,10 @@
 	display: block;
 	padding: 3px;
 }
+.linee{
+	width: 1px;
+	height: 53px;
+	background:#2c70b7;
+	float: left; 
+	margin: -11px -23px 10px 20px;
+}
