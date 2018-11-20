@@ -56,3 +56,16 @@
 	height: 12px;
 	background: url(search.png) center left no-repeat;
 }
+.bas{width: 30px;
+	height: 30px;
+	float: left;
+	border: 1px solid #2c70b7;
+	background:white;
+	margin: 35px 0 31px 32px ;
+	box-sizing: border-box;}
+.basket{background: url(basket.png) center  no-repeat;
+	width: 18px;
+	height: 20px;
+	display: block;
+	padding: 3px;
+}
