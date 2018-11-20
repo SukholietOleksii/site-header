@@ -1,0 +1,14 @@
+.head{
+	width: 1920px;
+	height: 102px;
+	margin: 0 auto;
+	background: #d1e1f0;
+}
+.logo{
+	background:url(logo.png) top left no-repeat;
+	width: 176px;
+	height: 38px;
+	display: block;
+	margin: 32px 120px 32px 375px;
+	float: left;
+	}
